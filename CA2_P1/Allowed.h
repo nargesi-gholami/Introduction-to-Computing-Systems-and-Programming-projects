@@ -1,0 +1,1 @@
+int allowed(int turn, int play[8][8],int row,int col);

@@ -1,0 +1,1 @@
+﻿void chooseW(int play[8][8]);

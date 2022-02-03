@@ -1,0 +1,1 @@
+int endgame(int play[8][8],int turn,int Endgame);

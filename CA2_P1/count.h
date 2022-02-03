@@ -1,0 +1,1 @@
+void count(int play[8][8]);
